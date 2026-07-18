@@ -3,10 +3,22 @@
 Performed an end-to-end Exploratory Data Analysis (EDA) on the NexaRetail Orders dataset to uncover sales trends, customer purchasing behavior, return patterns, seasonal demand, and business insights using Python.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy)
+
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-green)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
+
+![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00?logo=googlecolab)
+
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-success)
+
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
 
@@ -66,17 +78,19 @@ The dataset contains order-level retail transaction data including:
 
 # 🛠 Tools & Technologies
 
-- Python
-  
-- Google Colab
-  
-- Pandas
-  
-- NumPy
-  
-- Matplotlib
-  
-- Seaborn
+🐍 Python
+
+📊 Pandas
+
+🔢 NumPy
+
+📈 Matplotlib
+
+🎨 Seaborn
+
+💻 Google Colab
+
+📓 Jupyter Notebook
 
 ---
 
