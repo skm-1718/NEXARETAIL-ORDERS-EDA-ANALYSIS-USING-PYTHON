@@ -18,7 +18,6 @@ Performed an end-to-end Exploratory Data Analysis (EDA) on the NexaRetail Orders
 
 ![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-success)
 
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
 
